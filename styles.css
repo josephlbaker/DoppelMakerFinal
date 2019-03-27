@@ -1,0 +1,24 @@
+body {
+  background-color: red;
+}
+
+.signup {
+    height: auto;
+}
+
+section {
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+}
